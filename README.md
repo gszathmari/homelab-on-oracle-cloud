@@ -1,6 +1,6 @@
-# Homelab on Oracle Cloud Infrastructure (OCI)
+# Home Lab on the Oracle Cloud Infrastructure (OCI)
 
-This Terraform plan builds a virtual homelab environment on the Oracle Cloud
+This Terraform plan builds a virtual home lab environment on the Oracle Cloud
 Infrastructure (OCI) within the [always free](https://www.oracle.com/cloud/free/)
 limits.
 
@@ -26,7 +26,7 @@ The following resources are deployed within the free-tier offer:
 
 ## Configuration
 
-1. In order to deploy your homelab environment with Terraform, clone or download
+1. In order to deploy your home lab environment with Terraform, clone or download
    this repository to your computer.
 
 1. Follow the
@@ -62,7 +62,7 @@ The following resources are deployed within the free-tier offer:
 ## Deployment
 
 Once your [terraform.tfvars](./terraform/terraform.tfvars) is complete, your new
-homelab environment is ready for deployment.
+home lab environment is ready for deployment.
 
 1. Run Terraform init first:
 
@@ -76,7 +76,7 @@ homelab environment is ready for deployment.
    terraform plan -out=tfplan
    ```
 
-1. Deploy your homelab environment:
+1. Deploy your home lab environment:
 
    ```sh
    terraform apply "tfplan"
