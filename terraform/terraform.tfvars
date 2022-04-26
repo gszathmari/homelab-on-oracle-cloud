@@ -1,7 +1,7 @@
 # Refer to the README.md file to fill these in
 tenancy_ocid     = ""
 user_ocid        = ""
-private_key_path = "~/.oci/secret.pem"
+private_key_path = ""
 fingerprint      = ""
 region           = "ap-sydney-1"
 
