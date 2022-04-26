@@ -40,6 +40,8 @@ The following resources are deployed within the free-tier offer:
    - `fingerprint`
    - `region`
 
+   Please be careful with the value `private_key_path`, as this is not your SSH private key but the [API signing key](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/apisigningkey.htm#two).
+
 1. Depending on your chosen `region`, retrieve the image ID from
    [this page](https://docs.oracle.com/en-us/iaas/images/) for your instances.
 
