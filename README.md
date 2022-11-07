@@ -4,7 +4,7 @@ This Terraform plan builds a virtual home lab environment on the Oracle Cloud
 Infrastructure (OCI) within the [always free](https://www.oracle.com/cloud/free/)
 limits.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gabors)
 
 ## About the project
 
